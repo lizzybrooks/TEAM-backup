@@ -1,0 +1,49 @@
+{
+    "games": [
+        {
+            "UID": "11394232@www.lwhs.org",
+            "DTSTAMP": "20240417T181959Z",
+            "DTSTART": "20240417T160000",
+            "SUMMARY": "Swimming Varsity Coed vs. International High School, San Francisco University High School (Home)",
+            "DESCRIPTION": "",
+            "LOCATION": "CCSF Swimming Pool",
+            "PRIORITY": "0"
+        },
+        {
+            "UID": "11394250@www.lwhs.org",
+            "DTSTAMP": "20240417T181959Z",
+            "DTSTART": "20240417T160000",
+            "SUMMARY": "Tennis Varsity Boys vs. College Preparatory School (Home)",
+            "DESCRIPTION": "",
+            "LOCATION": "CCSF (Tennis Courts)",
+            "PRIORITY": "0"
+        },
+        {
+            "UID": "11396878@www.lwhs.org",
+            "DTSTAMP": "20240417T181959Z",
+            "DTSTART": "20240418T163000",
+            "SUMMARY": "Lacrosse Varsity Boys vs. Marin Academy (Home)",
+            "DESCRIPTION": "",
+            "LOCATION": "CCSF (Soccer/Lacrosse Field)",
+            "PRIORITY": "0"
+        },
+        {
+            "UID": "12319467@www.lwhs.org",
+            "DTSTAMP": "20240417T181959Z",
+            "DTSTART": "20240418T163000",
+            "SUMMARY": "Tennis JV Boys vs. International High School (Away)",
+            "DESCRIPTION": "",
+            "LOCATION": "Rossi (Angelo J.) Playground",
+            "PRIORITY": "0"
+        },
+        {
+            "UID": "12640423@www.lwhs.org",
+            "DTSTAMP": "20240417T181959Z",
+            "DTSTART": "20240418T180000",
+            "SUMMARY": "Baseball Varsity vs. Healdsburg High School CHANGED:Thu Apr 18 (Away)",
+            "DESCRIPTION": "",
+            "LOCATION": "Healdsburg High School",
+            "PRIORITY": "0"
+        }
+    ]
+}
