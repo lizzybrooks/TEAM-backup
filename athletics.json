@@ -1,49 +1,184 @@
 {
-    "games": [
-        {
-            "UID": "11394232@www.lwhs.org",
-            "DTSTAMP": "20240417T181959Z",
-            "DTSTART": "20240417T160000",
-            "SUMMARY": "Swimming Varsity Coed vs. International High School, San Francisco University High School (Home)",
-            "DESCRIPTION": "",
-            "LOCATION": "CCSF Swimming Pool",
-            "PRIORITY": "0"
-        },
-        {
-            "UID": "11394250@www.lwhs.org",
-            "DTSTAMP": "20240417T181959Z",
-            "DTSTART": "20240417T160000",
-            "SUMMARY": "Tennis Varsity Boys vs. College Preparatory School (Home)",
-            "DESCRIPTION": "",
-            "LOCATION": "CCSF (Tennis Courts)",
-            "PRIORITY": "0"
-        },
-        {
-            "UID": "11396878@www.lwhs.org",
-            "DTSTAMP": "20240417T181959Z",
-            "DTSTART": "20240418T163000",
-            "SUMMARY": "Lacrosse Varsity Boys vs. Marin Academy (Home)",
-            "DESCRIPTION": "",
-            "LOCATION": "CCSF (Soccer/Lacrosse Field)",
-            "PRIORITY": "0"
-        },
-        {
-            "UID": "12319467@www.lwhs.org",
-            "DTSTAMP": "20240417T181959Z",
-            "DTSTART": "20240418T163000",
-            "SUMMARY": "Tennis JV Boys vs. International High School (Away)",
-            "DESCRIPTION": "",
-            "LOCATION": "Rossi (Angelo J.) Playground",
-            "PRIORITY": "0"
-        },
-        {
-            "UID": "12640423@www.lwhs.org",
-            "DTSTAMP": "20240417T181959Z",
-            "DTSTART": "20240418T180000",
-            "SUMMARY": "Baseball Varsity vs. Healdsburg High School CHANGED:Thu Apr 18 (Away)",
-            "DESCRIPTION": "",
-            "LOCATION": "Healdsburg High School",
-            "PRIORITY": "0"
-        }
-    ]
+  "games": [
+    {
+      "team": "Softball Varsity",
+      "opponent": "Head-Royce",
+      "date": "2024-05-09T16:00:00-07:00",
+      "time": "2024-05-09T16:00:00-07:00",
+      "location": "Head-Royce",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Tennis Varsity Boys",
+      "opponent": "NCS Team ChampionshipAcalanes High School",
+      "date": "2024-05-09T17:00:00-07:00",
+      "time": "2024-05-09T17:00:00-07:00",
+      "location": "Acalanes High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Baseball Varsity",
+      "opponent": "BCL Finals",
+      "date": "2024-05-10T16:00:00-07:00",
+      "time": "2024-05-10T16:00:00-07:00",
+      "location": "Big Rec",
+      "advantage": "TBD",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Badminton Varsity Coed",
+      "opponent": "NCS Finals",
+      "date": "2024-05-11T09:00:00-07:00",
+      "time": "2024-05-11T09:00:00-07:00",
+      "location": "Washington High School (Fremont)",
+      "advantage": "TBD",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Class A Track & Field Championship",
+      "date": "2024-05-11T10:00:00-07:00",
+      "time": "2024-05-11T10:00:00-07:00",
+      "location": "Montgomery High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Class A Championship",
+      "date": "2024-05-11T10:00:00-07:00",
+      "time": "2024-05-11T10:00:00-07:00",
+      "location": "Montgomery High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Softball Varsity",
+      "opponent": "Head-Royce",
+      "date": "2024-05-09T16:00:00-07:00",
+      "time": "2024-05-09T16:00:00-07:00",
+      "location": "Head-Royce",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Tennis Varsity Boys",
+      "opponent": "NCS Team ChampionshipAcalanes High School",
+      "date": "2024-05-09T17:00:00-07:00",
+      "time": "2024-05-09T17:00:00-07:00",
+      "location": "Acalanes High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Baseball Varsity",
+      "opponent": "BCL Finals",
+      "date": "2024-05-10T16:00:00-07:00",
+      "time": "2024-05-10T16:00:00-07:00",
+      "location": "Big Rec",
+      "advantage": "TBD",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Badminton Varsity Coed",
+      "opponent": "NCS Finals",
+      "date": "2024-05-11T09:00:00-07:00",
+      "time": "2024-05-11T09:00:00-07:00",
+      "location": "Washington High School (Fremont)",
+      "advantage": "TBD",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Class A Track & Field Championship",
+      "date": "2024-05-11T10:00:00-07:00",
+      "time": "2024-05-11T10:00:00-07:00",
+      "location": "Montgomery High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Class A Championship",
+      "date": "2024-05-11T10:00:00-07:00",
+      "time": "2024-05-11T10:00:00-07:00",
+      "location": "Montgomery High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-17T15:00:00-07:00",
+      "time": "2024-05-17T15:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Boys",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    },
+    {
+      "team": "Track and Field Girls",
+      "opponent": "Meet of Champions (NCS)",
+      "date": "2024-05-18T18:00:00-07:00",
+      "time": "2024-05-18T18:00:00-07:00",
+      "location": "Dublin High School",
+      "advantage": "Away",
+      "detailsLink": "#"
+    }
+  ]
 }
